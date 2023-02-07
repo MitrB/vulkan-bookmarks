@@ -23,11 +23,10 @@
 - [Phong Reflection model](https://en.wikipedia.org/wiki/Phong_reflection_model)
 
 ### Game engine
-- [Game engine book](https://www.gameenginebook.comq/)
+- [Game engine book](https://www.gameenginebook.com/)
 - [Timestep article: fix your timestep!](https://gafferongames.com/post/fix_your_timestep/)
 - [Game loop: sequencing patterns](https://gameprogrammingpatterns.com/game-loop.html)
-- [Client side prediction](https://gabrielgambetta.com/client-server-game-architecture.htmlq)
-
+- [Client side prediction](https://gabrielgambetta.com/client-server-game-architecture.html)
 ### Code structure
 - [Entity Component System](https://skypjack.github.io/2019-02-14-ecs-baf-part-1/)
 
